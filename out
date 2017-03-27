@@ -1,1211 +1,669 @@
 Encontrou CLASS
-Encontrou espaço em branco.
-Encontrou ID (QuickSort)
+Encontrou ID (BinarySearch)
 Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
 Encontrou PUBLIC
-Encontrou espaço em branco.
 Encontrou STATIC
-Encontrou espaço em branco.
 Encontrou VOID
-Encontrou espaço em branco.
 Encontrou MAIN
 Encontrou (
 Encontrou STRING
 Encontrou [
 Encontrou ]
-Encontrou espaço em branco.
 Encontrou ID (a)
 Encontrou )
 Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (System)
-Encontrou .
-Encontrou ID (out)
-Encontrou .
-Encontrou ID (println)
+Encontrou SYSTEM PRINT CALL
 Encontrou (
 Encontrou NEW
-Encontrou espaço em branco.
-Encontrou ID (QS)
+Encontrou ID (BS)
 Encontrou (
 Encontrou )
 Encontrou .
 Encontrou ID (Start)
 Encontrou (
-Encontrou Inteiro (10)
-Encontrou )
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (This)
-Encontrou espaço em branco.
-Encontrou CLASS
-Encontrou espaço em branco.
-Encontrou ID (contains)
-Encontrou espaço em branco.
-Encontrou ID (the)
-Encontrou espaço em branco.
-Encontrou ID (array)
-Encontrou espaço em branco.
-Encontrou ID (of)
-Encontrou espaço em branco.
-Encontrou ID (integers)
-Encontrou espaço em branco.
-Encontrou ID (and)
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (methods)
-Encontrou espaço em branco.
-Encontrou ID (to)
-Encontrou espaço em branco.
-Encontrou ID (initialize)
-Encontrou ,
-Encontrou espaço em branco.
-Encontrou ID (print)
-Encontrou espaço em branco.
-Encontrou ID (and)
-Encontrou espaço em branco.
-Encontrou ID (sort)
-Encontrou espaço em branco.
-Encontrou ID (the)
-Encontrou espaço em branco.
-Encontrou ID (array)
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (using)
-Encontrou espaço em branco.
-Encontrou ID (Quicksort)
-Encontrou espaço em branco.
-Encontrou CLASS
-Encontrou espaço em branco.
-Encontrou ID (QS)
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou [
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (size)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (Invoke)
-Encontrou espaço em branco.
-Encontrou ID (the)
-Encontrou espaço em branco.
-Encontrou ID (Initialization)
-Encontrou ,
-Encontrou espaço em branco.
-Encontrou ID (Sort)
-Encontrou espaço em branco.
-Encontrou ID (and)
-Encontrou espaço em branco.
-Encontrou ID (Printing)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (Methods)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou PUBLIC
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (Start)
-Encontrou (
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (sz)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Init)
-Encontrou (
-Encontrou ID (sz)
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Print)
-Encontrou (
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (System)
-Encontrou .
-Encontrou ID (out)
-Encontrou .
-Encontrou ID (println)
-Encontrou (
-Encontrou Inteiro (9999)
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (size)
-Encontrou espaço em branco.
-Encontrou -
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Sort)
-Encontrou (
-Encontrou Inteiro (0)
-Encontrou ,
-Encontrou ID (aux01)
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Print)
-Encontrou (
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou RETURN
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (Sort)
-Encontrou espaço em branco.
-Encontrou ID (array)
-Encontrou espaço em branco.
-Encontrou ID (of)
-Encontrou espaço em branco.
-Encontrou ID (integers)
-Encontrou espaço em branco.
-Encontrou ID (using)
-Encontrou espaço em branco.
-Encontrou ID (Quicksort)
-Encontrou espaço em branco.
-Encontrou ID (method)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou PUBLIC
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (Sort)
-Encontrou (
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (left)
-Encontrou ,
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (right)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (v)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (i)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (nt)
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (t)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou BOOLEAN
-Encontrou espaço em branco.
-Encontrou ID (cont01)
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou BOOLEAN
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (aux03)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (t)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou IF
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (left)
-Encontrou espaço em branco.
-Encontrou <
-Encontrou espaço em branco.
-Encontrou ID (right)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (v)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (right)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (i)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (left)
-Encontrou espaço em branco.
-Encontrou -
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (right)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (cont01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou WHILE
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (cont01)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou WHILE
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (cont02)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (i)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (i)
-Encontrou espaço em branco.
-Encontrou +
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux03)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (i)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou IF
-Encontrou espaço em branco.
-Encontrou (
-Encontrou !
-Encontrou (
-Encontrou ID (aux03)
-Encontrou <
-Encontrou ID (v)
-Encontrou )
-Encontrou )
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou FALSE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ELSE
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou WHILE
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (cont02)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou -
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (aux03)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (j)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou IF
-Encontrou espaço em branco.
-Encontrou (
-Encontrou !
-Encontrou (
-Encontrou ID (v)
-Encontrou espaço em branco.
-Encontrou <
-Encontrou espaço em branco.
-Encontrou ID (aux03)
-Encontrou )
-Encontrou )
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou FALSE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ELSE
-Encontrou espaço em branco.
-Encontrou ID (cont02)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (t)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (i)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (i)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (j)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (j)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (t)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou ID (aux03)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (i)
-Encontrou espaço em branco.
-Encontrou +
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou IF
-Encontrou espaço em branco.
-Encontrou (
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou <
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (i)
-Encontrou +
-Encontrou Inteiro (1)
-Encontrou )
-Encontrou )
-Encontrou espaço em branco.
-Encontrou ID (cont01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou FALSE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ELSE
-Encontrou espaço em branco.
-Encontrou ID (cont01)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou TRUE
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (j)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (i)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (i)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (right)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (right)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (t)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (nt)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Sort)
-Encontrou (
-Encontrou ID (left)
-Encontrou ,
-Encontrou ID (i)
-Encontrou -
-Encontrou Inteiro (1)
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (nt)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou THIS
-Encontrou .
-Encontrou ID (Sort)
-Encontrou (
-Encontrou ID (i)
-Encontrou +
-Encontrou Inteiro (1)
-Encontrou ,
-Encontrou ID (right)
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ELSE
-Encontrou espaço em branco.
-Encontrou ID (nt)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou RETURN
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (Print)
-Encontrou espaço em branco.
-Encontrou ID (array)
-Encontrou espaço em branco.
-Encontrou ID (of)
-Encontrou espaço em branco.
-Encontrou ID (integers)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou PUBLIC
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (Print)
-Encontrou (
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou WHILE
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou <
-Encontrou espaço em branco.
-Encontrou (
-Encontrou ID (size)
-Encontrou )
-Encontrou )
-Encontrou espaço em branco.
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (System)
-Encontrou .
-Encontrou ID (out)
-Encontrou .
-Encontrou ID (println)
-Encontrou (
-Encontrou ID (number)
-Encontrou [
-Encontrou ID (j)
-Encontrou ]
-Encontrou )
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (j)
-Encontrou espaço em branco.
-Encontrou +
-Encontrou espaço em branco.
-Encontrou Inteiro (1)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou RETURN
-Encontrou espaço em branco.
-Encontrou Inteiro (0)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou comentario de multiplas linhas.
-Encontrou espaço em branco.
-Encontrou ID (Initialize)
-Encontrou espaço em branco.
-Encontrou ID (array)
-Encontrou espaço em branco.
-Encontrou ID (of)
-Encontrou espaço em branco.
-Encontrou ID (integers)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou PUBLIC
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (Init)
-Encontrou (
-Encontrou INT
-Encontrou espaço em branco.
-Encontrou ID (sz)
-Encontrou )
-Encontrou {
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (size)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou ID (sz)
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou NEW
-Encontrou espaço em branco.
-Encontrou INT
-Encontrou [
-Encontrou ID (sz)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (0)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
 Encontrou Inteiro (20)
-Encontrou espaço em branco.
+Encontrou )
+Encontrou )
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
+Encontrou }
+Encontrou }
+Encontrou comentario
+Encontrou comentario
+Encontrou comentario
+Encontrou CLASS
+Encontrou ID (BS)
+Encontrou {
+Encontrou INT
 Encontrou [
-Encontrou Inteiro (1)
 Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (7)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
 Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (2)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (12)
-Encontrou espaço em branco.
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (3)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (18)
-Encontrou espaço em branco.
+Encontrou INT
+Encontrou ID (size)
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (4)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (2)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou comentario
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou INT
+Encontrou ID (Start)
+Encontrou (
+Encontrou INT
+Encontrou ID (sz)
+Encontrou )
+Encontrou {
+Encontrou INT
+Encontrou ID (aux01)
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (5)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (11)
-Encontrou espaço em branco.
+Encontrou INT
+Encontrou ID (aux02)
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (6)
-Encontrou ]
-Encontrou espaço em branco.
+Encontrou ID (aux01)
 Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (6)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou THIS
+Encontrou .
+Encontrou ID (Init)
+Encontrou (
+Encontrou ID (sz)
+Encontrou )
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
-Encontrou Inteiro (7)
-Encontrou ]
-Encontrou espaço em branco.
+Encontrou ID (aux02)
 Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (9)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou THIS
+Encontrou .
+Encontrou ID (Print)
+Encontrou (
+Encontrou )
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou ID (number)
-Encontrou [
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
 Encontrou Inteiro (8)
-Encontrou ]
-Encontrou espaço em branco.
-Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (19)
-Encontrou espaço em branco.
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (19)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (20)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (21)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (37)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (38)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (39)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Search)
+Encontrou (
+Encontrou Inteiro (50)
+Encontrou )
+Encontrou )
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (1)
+Encontrou )
+Encontrou ;
+Encontrou ELSE
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (0)
+Encontrou )
+Encontrou ;
+Encontrou RETURN
+Encontrou Inteiro (999)
+Encontrou ;
+Encontrou }
+Encontrou comentario
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou BOOLEAN
+Encontrou ID (Search)
+Encontrou (
+Encontrou INT
+Encontrou ID (num)
+Encontrou )
+Encontrou {
+Encontrou BOOLEAN
+Encontrou ID (bs01)
+Encontrou ;
+Encontrou INT
+Encontrou ID (right)
+Encontrou ;
+Encontrou INT
+Encontrou ID (left)
+Encontrou ;
+Encontrou BOOLEAN
+Encontrou ID (var_cont)
+Encontrou ;
+Encontrou INT
+Encontrou ID (medium)
+Encontrou ;
+Encontrou INT
+Encontrou ID (aux01)
+Encontrou ;
+Encontrou INT
+Encontrou ID (nt)
+Encontrou ;
+Encontrou ID (aux01)
+Encontrou =
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou ID (bs01)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ID (right)
+Encontrou =
+Encontrou ID (number)
+Encontrou .
+Encontrou LENGTH
+Encontrou ;
+Encontrou ID (right)
+Encontrou =
+Encontrou ID (right)
+Encontrou -
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou ID (left)
+Encontrou =
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou ID (var_cont)
+Encontrou =
+Encontrou TRUE
+Encontrou ;
+Encontrou WHILE
+Encontrou (
+Encontrou ID (var_cont)
+Encontrou )
+Encontrou {
+Encontrou ID (medium)
+Encontrou =
+Encontrou ID (left)
+Encontrou +
+Encontrou ID (right)
+Encontrou ;
+Encontrou ID (medium)
+Encontrou =
+Encontrou THIS
+Encontrou .
+Encontrou ID (Div)
+Encontrou (
+Encontrou ID (medium)
+Encontrou )
+Encontrou ;
+Encontrou ID (aux01)
+Encontrou =
 Encontrou ID (number)
 Encontrou [
-Encontrou Inteiro (9)
+Encontrou ID (medium)
 Encontrou ]
-Encontrou espaço em branco.
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou ID (num)
+Encontrou <
+Encontrou ID (aux01)
+Encontrou )
+Encontrou ID (right)
 Encontrou =
-Encontrou espaço em branco.
-Encontrou Inteiro (5)
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou ID (medium)
+Encontrou -
+Encontrou Inteiro (1)
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou RETURN
-Encontrou espaço em branco.
+Encontrou ELSE
+Encontrou ID (left)
+Encontrou =
+Encontrou ID (medium)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Compare)
+Encontrou (
+Encontrou ID (aux01)
+Encontrou ,
+Encontrou ID (num)
+Encontrou )
+Encontrou )
+Encontrou ID (var_cont)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ELSE
+Encontrou ID (var_cont)
+Encontrou =
+Encontrou TRUE
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou ID (right)
+Encontrou <
+Encontrou ID (left)
+Encontrou )
+Encontrou ID (var_cont)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ELSE
+Encontrou ID (nt)
+Encontrou =
 Encontrou Inteiro (0)
-Encontrou espaço em branco.
 Encontrou ;
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
-Encontrou espaço em branco.
 Encontrou }
-Encontrou espaço em branco.
-Encontrou espaço em branco.
+Encontrou IF
+Encontrou (
+Encontrou THIS
+Encontrou .
+Encontrou ID (Compare)
+Encontrou (
+Encontrou ID (aux01)
+Encontrou ,
+Encontrou ID (num)
+Encontrou )
+Encontrou )
+Encontrou ID (bs01)
+Encontrou =
+Encontrou TRUE
+Encontrou ;
+Encontrou ELSE
+Encontrou ID (bs01)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou RETURN
+Encontrou ID (bs01)
+Encontrou ;
 Encontrou }
-Encontrou espaço em branco.
-Seu programa possui exatamente 176 identificadores.
+Encontrou comentario
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou INT
+Encontrou ID (Div)
+Encontrou (
+Encontrou INT
+Encontrou ID (num)
+Encontrou )
+Encontrou {
+Encontrou INT
+Encontrou ID (count01)
+Encontrou ;
+Encontrou INT
+Encontrou ID (count02)
+Encontrou ;
+Encontrou INT
+Encontrou ID (aux03)
+Encontrou ;
+Encontrou ID (count01)
+Encontrou =
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou ID (count02)
+Encontrou =
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou ID (aux03)
+Encontrou =
+Encontrou ID (num)
+Encontrou -
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou WHILE
+Encontrou (
+Encontrou ID (count02)
+Encontrou <
+Encontrou ID (aux03)
+Encontrou )
+Encontrou {
+Encontrou ID (count01)
+Encontrou =
+Encontrou ID (count01)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou ID (count02)
+Encontrou =
+Encontrou ID (count02)
+Encontrou +
+Encontrou Inteiro (2)
+Encontrou ;
+Encontrou }
+Encontrou RETURN
+Encontrou ID (count01)
+Encontrou ;
+Encontrou }
+Encontrou comentario
+Encontrou comentario
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou BOOLEAN
+Encontrou ID (Compare)
+Encontrou (
+Encontrou INT
+Encontrou ID (num1)
+Encontrou ,
+Encontrou INT
+Encontrou ID (num2)
+Encontrou )
+Encontrou {
+Encontrou BOOLEAN
+Encontrou ID (retval)
+Encontrou ;
+Encontrou INT
+Encontrou ID (aux02)
+Encontrou ;
+Encontrou ID (retval)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ID (aux02)
+Encontrou =
+Encontrou ID (num2)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou IF
+Encontrou (
+Encontrou ID (num1)
+Encontrou <
+Encontrou ID (num2)
+Encontrou )
+Encontrou ID (retval)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ELSE
+Encontrou IF
+Encontrou (
+Encontrou !
+Encontrou (
+Encontrou ID (num1)
+Encontrou <
+Encontrou ID (aux02)
+Encontrou )
+Encontrou )
+Encontrou ID (retval)
+Encontrou =
+Encontrou FALSE
+Encontrou ;
+Encontrou ELSE
+Encontrou ID (retval)
+Encontrou =
+Encontrou TRUE
+Encontrou ;
+Encontrou RETURN
+Encontrou ID (retval)
+Encontrou ;
+Encontrou }
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou INT
+Encontrou ID (Print)
+Encontrou (
+Encontrou )
+Encontrou {
+Encontrou INT
+Encontrou ID (j)
+Encontrou ;
+Encontrou ID (j)
+Encontrou =
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou WHILE
+Encontrou (
+Encontrou ID (j)
+Encontrou <
+Encontrou (
+Encontrou ID (size)
+Encontrou )
+Encontrou )
+Encontrou {
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou ID (number)
+Encontrou [
+Encontrou ID (j)
+Encontrou ]
+Encontrou )
+Encontrou ;
+Encontrou ID (j)
+Encontrou =
+Encontrou ID (j)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou }
+Encontrou SYSTEM PRINT CALL
+Encontrou (
+Encontrou Inteiro (99999)
+Encontrou )
+Encontrou ;
+Encontrou RETURN
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou }
+Encontrou comentario
+Encontrou PUBLIC
+Encontrou INT
+Encontrou ID (Init)
+Encontrou (
+Encontrou INT
+Encontrou ID (sz)
+Encontrou )
+Encontrou {
+Encontrou INT
+Encontrou ID (j)
+Encontrou ;
+Encontrou INT
+Encontrou ID (k)
+Encontrou ;
+Encontrou INT
+Encontrou ID (aux02)
+Encontrou ;
+Encontrou INT
+Encontrou ID (aux01)
+Encontrou ;
+Encontrou ID (size)
+Encontrou =
+Encontrou ID (sz)
+Encontrou ;
+Encontrou ID (number)
+Encontrou =
+Encontrou NEW
+Encontrou INT
+Encontrou [
+Encontrou ID (sz)
+Encontrou ]
+Encontrou ;
+Encontrou ID (j)
+Encontrou =
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou ID (k)
+Encontrou =
+Encontrou ID (size)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou WHILE
+Encontrou (
+Encontrou ID (j)
+Encontrou <
+Encontrou (
+Encontrou ID (size)
+Encontrou )
+Encontrou )
+Encontrou {
+Encontrou ID (aux01)
+Encontrou =
+Encontrou Inteiro (2)
+Encontrou *
+Encontrou ID (j)
+Encontrou ;
+Encontrou ID (aux02)
+Encontrou =
+Encontrou ID (k)
+Encontrou -
+Encontrou Inteiro (3)
+Encontrou ;
+Encontrou ID (number)
+Encontrou [
+Encontrou ID (j)
+Encontrou ]
+Encontrou =
+Encontrou ID (aux01)
+Encontrou +
+Encontrou ID (aux02)
+Encontrou ;
+Encontrou ID (j)
+Encontrou =
+Encontrou ID (j)
+Encontrou +
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou ID (k)
+Encontrou =
+Encontrou ID (k)
+Encontrou -
+Encontrou Inteiro (1)
+Encontrou ;
+Encontrou }
+Encontrou RETURN
+Encontrou Inteiro (0)
+Encontrou ;
+Encontrou }
+Encontrou }
+Seu programa possui exatamente 140 identificadores.
+Só uma curiosidade: seu programa possui exatamente 63 operadores, dos quais:
+-   8 são lógicos.
+-   15 são aritméticos.
+-   40 são de atribuição. 
+:P

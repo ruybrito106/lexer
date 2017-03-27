@@ -30,13 +30,13 @@ class LexAnalyzer {
    * Translates characters to character classes
    */
   private static final String ZZ_CMAP_PACKED = 
-    "\11\0\1\7\1\10\1\57\1\7\1\7\22\0\1\10\1\45\4\0"+
-    "\1\42\1\0\1\50\1\51\1\2\1\46\1\56\1\47\1\40\1\1"+
-    "\1\6\11\5\1\0\1\41\1\43\1\44\3\0\22\4\1\31\7\4"+
-    "\1\52\1\0\1\53\1\0\1\3\1\0\1\15\1\11\1\17\1\26"+
-    "\1\14\1\36\1\33\1\35\1\23\2\4\1\13\1\30\1\16\1\12"+
-    "\1\21\1\4\1\32\1\20\1\25\1\22\1\27\1\34\1\24\1\37"+
-    "\1\4\1\54\1\0\1\55\7\0\1\57\u1fa2\0\1\57\1\57\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\udfe6\0";
+    "\11\0\1\5\1\7\1\60\1\5\1\6\22\0\1\5\1\45\4\0"+
+    "\1\42\1\0\1\50\1\51\1\11\1\46\1\57\1\47\1\41\1\10"+
+    "\1\4\11\3\1\0\1\56\1\43\1\44\3\0\22\2\1\32\7\2"+
+    "\1\52\1\0\1\53\1\0\1\1\1\0\1\16\1\12\1\20\1\27"+
+    "\1\15\1\37\1\34\1\36\1\24\2\2\1\14\1\31\1\17\1\13"+
+    "\1\22\1\2\1\33\1\21\1\26\1\23\1\30\1\35\1\25\1\40"+
+    "\1\2\1\54\1\0\1\55\7\0\1\60\u1fa2\0\1\60\1\60\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\uffff\0\udfe6\0";
 
   /** 
    * Translates characters to character classes
@@ -49,14 +49,14 @@ class LexAnalyzer {
   private static final int [] ZZ_ACTION = zzUnpackAction();
 
   private static final String ZZ_ACTION_PACKED_0 =
-    "\1\0\2\1\1\2\1\3\2\4\1\5\17\3\1\6"+
-    "\1\7\1\1\1\10\1\11\1\12\1\13\1\14\1\15"+
-    "\1\16\1\17\1\20\1\21\1\22\1\23\1\24\1\25"+
-    "\2\0\1\26\11\3\1\27\11\3\1\30\1\31\1\32"+
-    "\4\3\1\33\3\3\1\34\13\3\1\35\4\3\1\36"+
-    "\1\37\1\40\1\41\10\3\1\42\5\3\1\43\1\44"+
-    "\1\3\1\45\1\3\1\46\1\47\1\50\1\3\1\51"+
-    "\1\52\1\53\14\0\1\54";
+    "\1\0\1\1\1\2\2\3\1\4\1\1\1\5\17\2"+
+    "\1\6\1\1\1\7\1\10\1\11\1\12\1\13\1\14"+
+    "\1\15\1\16\1\17\1\20\1\21\1\22\1\23\1\24"+
+    "\2\0\11\2\1\25\11\2\1\26\1\27\1\30\2\31"+
+    "\1\0\4\2\1\32\3\2\1\33\13\2\1\34\4\2"+
+    "\1\35\1\36\1\37\1\40\10\2\1\41\5\2\1\42"+
+    "\1\43\1\2\1\44\1\2\1\45\1\46\1\47\1\2"+
+    "\1\50\1\51\1\52\13\0\1\53";
 
   private static int [] zzUnpackAction() {
     int [] result = new int[133];
@@ -84,23 +84,23 @@ class LexAnalyzer {
   private static final int [] ZZ_ROWMAP = zzUnpackRowMap();
 
   private static final String ZZ_ROWMAP_PACKED_0 =
-    "\0\0\0\60\0\140\0\220\0\300\0\360\0\60\0\60"+
-    "\0\u0120\0\u0150\0\u0180\0\u01b0\0\u01e0\0\u0210\0\u0240\0\u0270"+
-    "\0\u02a0\0\u02d0\0\u0300\0\u0330\0\u0360\0\u0390\0\u03c0\0\60"+
-    "\0\60\0\u03f0\0\60\0\u0420\0\u0450\0\60\0\60\0\60"+
-    "\0\60\0\60\0\60\0\60\0\60\0\60\0\60\0\60"+
-    "\0\140\0\220\0\220\0\u0480\0\u04b0\0\u04e0\0\u0510\0\u0540"+
-    "\0\u0570\0\u05a0\0\u05d0\0\u0600\0\300\0\u0630\0\u0660\0\u0690"+
-    "\0\u06c0\0\u06f0\0\u0720\0\u0750\0\u0780\0\u07b0\0\60\0\60"+
-    "\0\60\0\u07e0\0\u0810\0\u0840\0\u0870\0\300\0\u08a0\0\u08d0"+
-    "\0\u0900\0\300\0\u0930\0\u0960\0\u0990\0\u09c0\0\u09f0\0\u0a20"+
-    "\0\u0a50\0\u0a80\0\u0ab0\0\u0ae0\0\u0b10\0\300\0\u0b40\0\u0b70"+
-    "\0\u0ba0\0\u0bd0\0\300\0\300\0\300\0\300\0\u0c00\0\u0c30"+
-    "\0\u0c60\0\u0c90\0\u0cc0\0\u0cf0\0\u0d20\0\u0d50\0\300\0\u0d80"+
-    "\0\u0db0\0\u0de0\0\u0e10\0\u0e40\0\300\0\300\0\u0e70\0\300"+
-    "\0\u0ea0\0\300\0\300\0\300\0\u0ed0\0\300\0\300\0\300"+
-    "\0\u0f00\0\u0f30\0\u0f60\0\u0f90\0\u0fc0\0\u0ff0\0\u1020\0\u1050"+
-    "\0\u1080\0\u10b0\0\u10e0\0\u1110\0\60";
+    "\0\0\0\61\0\142\0\223\0\61\0\61\0\304\0\61"+
+    "\0\365\0\u0126\0\u0157\0\u0188\0\u01b9\0\u01ea\0\u021b\0\u024c"+
+    "\0\u027d\0\u02ae\0\u02df\0\u0310\0\u0341\0\u0372\0\u03a3\0\61"+
+    "\0\u03d4\0\61\0\u0405\0\u0436\0\61\0\61\0\61\0\61"+
+    "\0\61\0\61\0\61\0\61\0\61\0\61\0\61\0\u0467"+
+    "\0\u0498\0\u04c9\0\u04fa\0\u052b\0\u055c\0\u058d\0\u05be\0\u05ef"+
+    "\0\u0620\0\u0651\0\142\0\u0682\0\u06b3\0\u06e4\0\u0715\0\u0746"+
+    "\0\u0777\0\u07a8\0\u07d9\0\u080a\0\61\0\61\0\61\0\u083b"+
+    "\0\61\0\u086c\0\u089d\0\u08ce\0\u08ff\0\u0930\0\142\0\u0961"+
+    "\0\u0992\0\u09c3\0\142\0\u09f4\0\u0a25\0\u0a56\0\u0a87\0\u0ab8"+
+    "\0\u0ae9\0\u0b1a\0\u0b4b\0\u0b7c\0\u0bad\0\u0bde\0\142\0\u0c0f"+
+    "\0\u0c40\0\u0c71\0\u0ca2\0\142\0\142\0\142\0\142\0\u0cd3"+
+    "\0\u0d04\0\u0d35\0\u0d66\0\u0d97\0\u0dc8\0\u0df9\0\u0e2a\0\142"+
+    "\0\u0e5b\0\u0e8c\0\u0ebd\0\u0eee\0\u0f1f\0\142\0\142\0\u0f50"+
+    "\0\142\0\u0f81\0\142\0\142\0\142\0\u0fb2\0\142\0\142"+
+    "\0\142\0\u0fe3\0\u1014\0\u1045\0\u1076\0\u10a7\0\u10d8\0\u1109"+
+    "\0\u113a\0\u116b\0\u119c\0\u11cd\0\61";
 
   private static int [] zzUnpackRowMap() {
     int [] result = new int[133];
@@ -126,75 +126,76 @@ class LexAnalyzer {
   private static final int [] ZZ_TRANS = zzUnpackTrans();
 
   private static final String ZZ_TRANS_PACKED_0 =
-    "\1\2\1\3\1\4\2\5\1\6\1\7\2\10\1\11"+
-    "\1\5\1\12\1\13\1\5\1\14\1\15\1\16\1\17"+
-    "\1\5\1\20\1\5\1\21\1\5\1\22\1\23\1\24"+
-    "\1\25\1\5\1\26\1\5\1\27\1\5\1\30\1\31"+
+    "\1\2\2\3\1\4\1\5\3\6\1\7\1\10\1\11"+
+    "\1\3\1\12\1\13\1\3\1\14\1\15\1\16\1\17"+
+    "\1\3\1\20\1\3\1\21\1\3\1\22\1\23\1\24"+
+    "\1\25\1\3\1\26\1\3\1\27\1\3\1\30\1\31"+
     "\1\32\1\33\1\34\1\35\1\36\1\37\1\40\1\41"+
-    "\1\42\1\43\1\44\1\45\1\46\1\47\61\0\2\50"+
-    "\1\0\3\51\1\52\1\53\27\51\21\0\2\50\1\0"+
-    "\34\52\24\0\3\5\2\0\27\5\25\0\2\6\55\0"+
-    "\3\5\2\0\1\5\1\54\25\5\24\0\3\5\2\0"+
-    "\3\5\1\55\23\5\24\0\3\5\2\0\2\5\1\56"+
-    "\10\5\1\57\13\5\24\0\3\5\2\0\3\5\1\60"+
-    "\23\5\24\0\3\5\2\0\2\5\1\61\24\5\24\0"+
-    "\3\5\2\0\14\5\1\62\12\5\24\0\3\5\2\0"+
-    "\11\5\1\63\15\5\24\0\3\5\2\0\5\5\1\64"+
-    "\17\5\1\65\1\5\24\0\3\5\2\0\21\5\1\66"+
-    "\2\5\1\67\2\5\24\0\3\5\2\0\1\5\1\70"+
-    "\25\5\24\0\3\5\2\0\4\5\1\71\22\5\24\0"+
-    "\3\5\2\0\14\5\1\72\11\5\1\73\24\0\3\5"+
-    "\2\0\3\5\1\74\23\5\24\0\3\5\2\0\24\5"+
-    "\1\75\2\5\24\0\3\5\2\0\4\5\1\76\22\5"+
-    "\62\0\1\77\61\0\1\100\57\0\1\101\17\0\3\5"+
-    "\2\0\1\5\1\102\25\5\24\0\3\5\2\0\5\5"+
-    "\1\103\21\5\24\0\3\5\2\0\7\5\1\104\17\5"+
-    "\24\0\3\5\2\0\14\5\1\105\12\5\24\0\3\5"+
-    "\2\0\23\5\1\106\3\5\24\0\3\5\2\0\4\5"+
-    "\1\107\22\5\24\0\3\5\2\0\4\5\1\110\22\5"+
-    "\24\0\3\5\2\0\1\111\26\5\24\0\3\5\2\0"+
-    "\14\5\1\112\12\5\24\0\3\5\2\0\11\5\1\113"+
-    "\15\5\24\0\3\5\2\0\12\5\1\114\14\5\24\0"+
-    "\3\5\2\0\12\5\1\115\14\5\24\0\3\5\2\0"+
-    "\12\5\1\116\14\5\24\0\3\5\2\0\21\5\1\117"+
-    "\5\5\24\0\3\5\2\0\7\5\1\120\17\5\24\0"+
-    "\3\5\2\0\14\5\1\121\12\5\24\0\3\5\2\0"+
-    "\12\5\1\122\14\5\24\0\3\5\2\0\2\5\1\123"+
-    "\24\5\24\0\3\5\2\0\2\5\1\124\24\5\24\0"+
-    "\3\5\2\0\22\5\1\125\4\5\24\0\3\5\2\0"+
-    "\3\5\1\126\23\5\24\0\3\5\2\0\3\5\1\127"+
-    "\23\5\24\0\3\5\2\0\7\5\1\130\17\5\24\0"+
-    "\3\5\2\0\14\5\1\131\12\5\24\0\3\5\2\0"+
-    "\2\5\1\132\24\5\24\0\3\5\2\0\3\5\1\133"+
-    "\23\5\24\0\3\5\2\0\7\5\1\134\17\5\24\0"+
-    "\3\5\2\0\15\5\1\135\11\5\24\0\3\5\2\0"+
-    "\5\5\1\136\21\5\24\0\3\5\2\0\12\5\1\137"+
-    "\14\5\24\0\3\5\2\0\14\5\1\140\12\5\24\0"+
-    "\3\5\2\0\11\5\1\141\15\5\24\0\3\5\2\0"+
-    "\2\5\1\142\24\5\24\0\3\5\2\0\7\5\1\143"+
-    "\17\5\24\0\3\5\2\0\3\5\1\144\23\5\24\0"+
-    "\3\5\2\0\14\5\1\145\12\5\24\0\3\5\2\0"+
-    "\5\5\1\146\21\5\24\0\3\5\2\0\7\5\1\147"+
-    "\17\5\24\0\3\5\2\0\12\5\1\150\14\5\24\0"+
-    "\3\5\2\0\12\5\1\151\14\5\24\0\3\5\2\0"+
-    "\5\5\1\152\21\5\24\0\3\5\2\0\3\5\1\153"+
-    "\23\5\24\0\3\5\2\0\21\5\1\154\5\5\24\0"+
-    "\3\5\2\0\3\5\1\155\23\5\24\0\3\5\2\0"+
-    "\3\5\1\156\23\5\24\0\3\5\2\0\4\5\1\157"+
-    "\22\5\24\0\3\5\2\0\24\5\1\160\2\5\24\0"+
-    "\3\5\2\0\15\5\1\161\11\5\24\0\3\5\2\0"+
-    "\6\5\1\162\20\5\24\0\3\5\2\0\6\5\1\163"+
-    "\20\5\24\0\3\5\2\0\22\5\1\164\4\5\24\0"+
-    "\3\5\2\0\17\5\1\165\7\5\24\0\3\5\2\0"+
-    "\5\5\1\166\21\5\24\0\3\5\2\0\5\5\1\167"+
-    "\21\5\24\0\3\5\2\0\7\5\1\170\17\5\24\0"+
-    "\3\5\2\0\27\5\1\171\31\0\1\172\67\0\1\173"+
-    "\62\0\1\174\72\0\1\175\40\0\1\176\70\0\1\177"+
-    "\50\0\1\200\52\0\1\201\66\0\1\202\45\0\1\203"+
-    "\62\0\1\204\102\0\1\205\16\0";
+    "\1\42\1\43\1\44\1\45\1\46\1\47\62\0\4\3"+
+    "\5\0\27\3\23\0\2\4\64\0\1\50\1\51\50\0"+
+    "\4\3\5\0\1\3\1\52\25\3\21\0\4\3\5\0"+
+    "\3\3\1\53\23\3\21\0\4\3\5\0\2\3\1\54"+
+    "\10\3\1\55\13\3\21\0\4\3\5\0\3\3\1\56"+
+    "\23\3\21\0\4\3\5\0\2\3\1\57\24\3\21\0"+
+    "\4\3\5\0\14\3\1\60\12\3\21\0\4\3\5\0"+
+    "\11\3\1\61\15\3\21\0\4\3\5\0\5\3\1\62"+
+    "\17\3\1\63\1\3\21\0\4\3\5\0\21\3\1\64"+
+    "\2\3\1\65\2\3\21\0\4\3\5\0\1\3\1\66"+
+    "\25\3\21\0\4\3\5\0\4\3\1\67\22\3\21\0"+
+    "\4\3\5\0\14\3\1\70\11\3\1\71\21\0\4\3"+
+    "\5\0\3\3\1\72\23\3\21\0\4\3\5\0\24\3"+
+    "\1\73\2\3\21\0\4\3\5\0\4\3\1\74\22\3"+
+    "\62\0\1\75\62\0\1\76\60\0\1\77\14\0\6\50"+
+    "\1\100\1\101\51\50\2\0\6\51\1\0\1\102\27\51"+
+    "\21\0\4\3\5\0\1\3\1\103\25\3\21\0\4\3"+
+    "\5\0\5\3\1\104\21\3\21\0\4\3\5\0\7\3"+
+    "\1\105\17\3\21\0\4\3\5\0\14\3\1\106\12\3"+
+    "\21\0\4\3\5\0\23\3\1\107\3\3\21\0\4\3"+
+    "\5\0\4\3\1\110\22\3\21\0\4\3\5\0\4\3"+
+    "\1\111\22\3\21\0\4\3\5\0\1\112\26\3\21\0"+
+    "\4\3\5\0\14\3\1\113\12\3\21\0\4\3\5\0"+
+    "\11\3\1\114\15\3\21\0\4\3\5\0\12\3\1\115"+
+    "\14\3\21\0\4\3\5\0\12\3\1\116\14\3\21\0"+
+    "\4\3\5\0\12\3\1\117\14\3\21\0\4\3\5\0"+
+    "\21\3\1\120\5\3\21\0\4\3\5\0\7\3\1\121"+
+    "\17\3\21\0\4\3\5\0\14\3\1\122\12\3\21\0"+
+    "\4\3\5\0\12\3\1\123\14\3\21\0\4\3\5\0"+
+    "\2\3\1\124\24\3\27\0\1\101\61\0\1\101\51\0"+
+    "\4\3\5\0\2\3\1\125\24\3\21\0\4\3\5\0"+
+    "\22\3\1\126\4\3\21\0\4\3\5\0\3\3\1\127"+
+    "\23\3\21\0\4\3\5\0\3\3\1\130\23\3\21\0"+
+    "\4\3\5\0\7\3\1\131\17\3\21\0\4\3\5\0"+
+    "\14\3\1\132\12\3\21\0\4\3\5\0\2\3\1\133"+
+    "\24\3\21\0\4\3\5\0\3\3\1\134\23\3\21\0"+
+    "\4\3\5\0\7\3\1\135\17\3\21\0\4\3\5\0"+
+    "\15\3\1\136\11\3\21\0\4\3\5\0\5\3\1\137"+
+    "\21\3\21\0\4\3\5\0\12\3\1\140\14\3\21\0"+
+    "\4\3\5\0\14\3\1\141\12\3\21\0\4\3\5\0"+
+    "\11\3\1\142\15\3\21\0\4\3\5\0\2\3\1\143"+
+    "\24\3\21\0\4\3\5\0\7\3\1\144\17\3\21\0"+
+    "\4\3\5\0\3\3\1\145\23\3\21\0\4\3\5\0"+
+    "\14\3\1\146\12\3\21\0\4\3\5\0\5\3\1\147"+
+    "\21\3\21\0\4\3\5\0\7\3\1\150\17\3\21\0"+
+    "\4\3\5\0\12\3\1\151\14\3\21\0\4\3\5\0"+
+    "\12\3\1\152\14\3\21\0\4\3\5\0\5\3\1\153"+
+    "\21\3\21\0\4\3\5\0\3\3\1\154\23\3\21\0"+
+    "\4\3\5\0\21\3\1\155\5\3\21\0\4\3\5\0"+
+    "\3\3\1\156\23\3\21\0\4\3\5\0\3\3\1\157"+
+    "\23\3\21\0\4\3\5\0\4\3\1\160\22\3\21\0"+
+    "\4\3\5\0\24\3\1\161\2\3\21\0\4\3\5\0"+
+    "\15\3\1\162\11\3\21\0\4\3\5\0\6\3\1\163"+
+    "\20\3\21\0\4\3\5\0\6\3\1\164\20\3\21\0"+
+    "\4\3\5\0\22\3\1\165\4\3\21\0\4\3\5\0"+
+    "\17\3\1\166\7\3\21\0\4\3\5\0\5\3\1\167"+
+    "\21\3\21\0\4\3\5\0\5\3\1\170\21\3\21\0"+
+    "\4\3\5\0\7\3\1\171\17\3\21\0\4\3\5\0"+
+    "\27\3\1\172\32\0\1\173\70\0\1\174\63\0\1\175"+
+    "\73\0\1\176\41\0\1\177\71\0\1\200\51\0\1\201"+
+    "\53\0\1\202\67\0\1\203\46\0\1\204\63\0\1\205"+
+    "\41\0";
 
   private static int [] zzUnpackTrans() {
-    int [] result = new int[4416];
+    int [] result = new int[4606];
     int offset = 0;
     offset = zzUnpackTrans(ZZ_TRANS_PACKED_0, offset, result);
     return result;
@@ -232,8 +233,9 @@ class LexAnalyzer {
   private static final int [] ZZ_ATTRIBUTE = zzUnpackAttribute();
 
   private static final String ZZ_ATTRIBUTE_PACKED_0 =
-    "\1\0\1\11\4\1\2\11\17\1\2\11\1\1\1\11"+
-    "\2\1\13\11\2\0\24\1\3\11\67\1\14\0\1\11";
+    "\1\0\1\11\2\1\2\11\1\1\1\11\17\1\1\11"+
+    "\1\1\1\11\2\1\13\11\2\0\23\1\3\11\1\1"+
+    "\1\11\1\0\67\1\13\0\1\11";
 
   private static int [] zzUnpackAttribute() {
     int [] result = new int[133];
@@ -314,6 +316,9 @@ class LexAnalyzer {
   /* user code: */
 
 int TokenCounter = 0;
+int LogicOp = 0;
+int ArithmeticOp = 0;
+int AttributionOp = 0;
 
 
 
@@ -549,6 +554,11 @@ int TokenCounter = 0;
       zzEOFDone = true;
     
 System.out.println("Seu programa possui exatamente " + TokenCounter + " identificadores.");
+int Op = LogicOp+AttributionOp+ArithmeticOp;
+System.out.println("Só uma curiosidade: seu programa possui exatamente "+ Op + " operadores, dos quais:");
+System.out.println("-   "+LogicOp+" são lógicos.");
+System.out.println("-   "+ArithmeticOp+" são aritméticos.");
+System.out.print("-   "+AttributionOp+" são de atribuição. \n:P");
 
 
     }
@@ -706,179 +716,175 @@ System.out.println("Seu programa possui exatamente " + TokenCounter + " identifi
           case 1: 
             { throw new RuntimeException("Caractere ilegal! '" + yytext() + "' na linha: " + yyline + ", coluna: " + yycolumn);
             }
-          case 45: break;
+          case 44: break;
           case 2: 
-            { System.out.println("Encontrou *");
-            }
-          case 46: break;
-          case 3: 
             { TokenCounter++; System.out.println("Encontrou ID ("+yytext()+")");
             }
-          case 47: break;
-          case 4: 
+          case 45: break;
+          case 3: 
             { System.out.println("Encontrou Inteiro ("+yytext()+")");
             }
-          case 48: break;
-          case 5: 
-            { System.out.println("Encontrou espaço em branco.");
+          case 46: break;
+          case 4: 
+            { 
             }
-          case 49: break;
+          case 47: break;
+          case 5: 
+            { ArithmeticOp++; System.out.println("Encontrou *");
+            }
+          case 48: break;
           case 6: 
             { System.out.println("Encontrou .");
             }
-          case 50: break;
+          case 49: break;
           case 7: 
-            { System.out.println("Encontrou ;");
+            { LogicOp++; System.out.println("Encontrou <");
+            }
+          case 50: break;
+          case 8: 
+            { AttributionOp++; System.out.println("Encontrou =");
             }
           case 51: break;
-          case 8: 
-            { System.out.println("Encontrou <");
+          case 9: 
+            { LogicOp++; System.out.println("Encontrou !");
             }
           case 52: break;
-          case 9: 
-            { System.out.println("Encontrou =");
+          case 10: 
+            { ArithmeticOp++; System.out.println("Encontrou +");
             }
           case 53: break;
-          case 10: 
-            { System.out.println("Encontrou !");
+          case 11: 
+            { ArithmeticOp++; System.out.println("Encontrou -");
             }
           case 54: break;
-          case 11: 
-            { System.out.println("Encontrou +");
-            }
-          case 55: break;
           case 12: 
-            { System.out.println("Encontrou -");
-            }
-          case 56: break;
-          case 13: 
             { System.out.println("Encontrou (");
             }
-          case 57: break;
-          case 14: 
+          case 55: break;
+          case 13: 
             { System.out.println("Encontrou )");
             }
-          case 58: break;
-          case 15: 
+          case 56: break;
+          case 14: 
             { System.out.println("Encontrou [");
             }
-          case 59: break;
-          case 16: 
+          case 57: break;
+          case 15: 
             { System.out.println("Encontrou ]");
             }
-          case 60: break;
-          case 17: 
+          case 58: break;
+          case 16: 
             { System.out.println("Encontrou {");
             }
-          case 61: break;
-          case 18: 
+          case 59: break;
+          case 17: 
             { System.out.println("Encontrou }");
             }
-          case 62: break;
+          case 60: break;
+          case 18: 
+            { System.out.println("Encontrou ;");
+            }
+          case 61: break;
           case 19: 
             { System.out.println("Encontrou ,");
             }
-          case 63: break;
+          case 62: break;
           case 20: 
             { System.out.print(yytext());
             }
-          case 64: break;
+          case 63: break;
           case 21: 
-            { System.out.println("Encontrou comentario de multiplas linhas.");
-            }
-          case 65: break;
-          case 22: 
-            { System.out.println("Encontrou comentario em uma linha.");
-            }
-          case 66: break;
-          case 23: 
             { System.out.println("Encontrou IF");
             }
-          case 67: break;
+          case 64: break;
+          case 22: 
+            { LogicOp++; System.out.println("Encontrou &&");
+            }
+          case 65: break;
+          case 23: 
+            { LogicOp++; System.out.println("Encontrou ==");
+            }
+          case 66: break;
           case 24: 
-            { System.out.println("Encontrou &&");
+            { LogicOp++; System.out.println("Encontrou !=");
+            }
+          case 67: break;
+          case 25: 
+            { System.out.println("Encontrou comentario");
             }
           case 68: break;
-          case 25: 
-            { System.out.println("Encontrou ==");
-            }
-          case 69: break;
           case 26: 
-            { System.out.println("Encontrou !=");
-            }
-          case 70: break;
-          case 27: 
             { System.out.println("Encontrou NEW");
             }
-          case 71: break;
-          case 28: 
+          case 69: break;
+          case 27: 
             { System.out.println("Encontrou INT");
             }
-          case 72: break;
-          case 29: 
+          case 70: break;
+          case 28: 
             { System.out.println("Encontrou ELSE");
             }
-          case 73: break;
-          case 30: 
+          case 71: break;
+          case 29: 
             { System.out.println("Encontrou TRUE");
             }
-          case 74: break;
-          case 31: 
+          case 72: break;
+          case 30: 
             { System.out.println("Encontrou THIS");
             }
-          case 75: break;
-          case 32: 
+          case 73: break;
+          case 31: 
             { System.out.println("Encontrou VOID");
             }
-          case 76: break;
-          case 33: 
+          case 74: break;
+          case 32: 
             { System.out.println("Encontrou MAIN");
             }
-          case 77: break;
-          case 34: 
+          case 75: break;
+          case 33: 
             { System.out.println("Encontrou CLASS");
             }
-          case 78: break;
-          case 35: 
+          case 76: break;
+          case 34: 
             { System.out.println("Encontrou WHILE");
             }
-          case 79: break;
-          case 36: 
+          case 77: break;
+          case 35: 
             { System.out.println("Encontrou FALSE");
             }
-          case 80: break;
-          case 37: 
+          case 78: break;
+          case 36: 
             { System.out.println("Encontrou LENGTH");
             }
-          case 81: break;
-          case 38: 
+          case 79: break;
+          case 37: 
             { System.out.println("Encontrou STATIC");
             }
-          case 82: break;
-          case 39: 
+          case 80: break;
+          case 38: 
             { System.out.println("Encontrou PUBLIC");
             }
-          case 83: break;
-          case 40: 
+          case 81: break;
+          case 39: 
             { System.out.println("Encontrou STRING");
             }
-          case 84: break;
-          case 41: 
+          case 82: break;
+          case 40: 
             { System.out.println("Encontrou RETURN");
             }
-          case 85: break;
-          case 42: 
+          case 83: break;
+          case 41: 
             { System.out.println("Encontrou BOOLEAN");
             }
-          case 86: break;
-          case 43: 
+          case 84: break;
+          case 42: 
             { System.out.println("Encontrou EXTENDS");
             }
-          case 87: break;
-          case 44: 
+          case 85: break;
+          case 43: 
             { System.out.println("Encontrou SYSTEM PRINT CALL");
             }
-          case 88: break;
+          case 86: break;
           default:
             zzScanError(ZZ_NO_MATCH);
         }

@@ -10,18 +10,23 @@
 %{
 
 int TokenCounter = 0;
+int LogicOp = 0;
+int ArithmeticOp = 0;
+int AttributionOp = 0;
 
 %}
 
 %eof{
 
 System.out.println("Seu programa possui exatamente " + TokenCounter + " identificadores.");
+int Op = LogicOp+AttributionOp+ArithmeticOp;
+System.out.println("Só uma curiosidade: seu programa possui exatamente "+ Op + " operadores, dos quais:");
+System.out.println("-   "+LogicOp+" são lógicos.");
+System.out.println("-   "+ArithmeticOp+" são aritméticos.");
+System.out.print("-   "+AttributionOp+" são de atribuição. \n:P");
 
 %eof}
 
-slashs           = [//]
-multislashbegin      = [/*]
-multislashend         = [*/]
 underline   = [_]
 letter          = [A-Za-z]
 firstdigit      = [1-9]
@@ -29,15 +34,15 @@ digit           = [0-9]
 zero            = [0]
 integer         = {zero}|(({firstdigit})({digit})*)
 alphanumeric    = {letter}|{digit}
-identifier      = ({underline}|{letter})({alphanumeric})*
+identifier      = ({underline}|{letter})({underline}|{alphanumeric})*
 whitespace      = [ \n\t\r\f]
-singlelinecomment   = ({slashs})(({alphanumeric})*)([ \n])
-multilinecomment    = ({multislashbegin})(({alphanumeric}|{whitespace})*)({multislashend})
-
+breakline = \r|\n|\r\n
+anyinput = [^\r\n]
+singlelinecomment   = "//" {anyinput}* {breakline}
+multilinecomment    = "/*" (({alphanumeric}|{whitespace})*) "*/"
 
 
 %%
-
 
 
 "boolean"       {System.out.println("Encontrou BOOLEAN");}
@@ -58,15 +63,15 @@ multilinecomment    = ({multislashbegin})(({alphanumeric}|{whitespace})*)({multi
 "length"       {System.out.println("Encontrou LENGTH");}
 "this"       {System.out.println("Encontrou THIS");}
 "new"       {System.out.println("Encontrou NEW");}
-"System.out.println;"       {System.out.println("Encontrou SYSTEM PRINT CALL");}
-"&&"            { System.out.println("Encontrou &&"); }
-"<"               { System.out.println("Encontrou <"); }
-"=="            { System.out.println("Encontrou =="); }
-"!="            { System.out.println("Encontrou !="); }
-"!"            { System.out.println("Encontrou !"); }
-"*"              { System.out.println("Encontrou *"); }
-"+"             { System.out.println("Encontrou +"); }
-"-"              { System.out.println("Encontrou -"); }
+"System.out.println"       {System.out.println("Encontrou SYSTEM PRINT CALL");}
+"&&"            { LogicOp++; System.out.println("Encontrou &&"); }
+"<"               { LogicOp++; System.out.println("Encontrou <"); }
+"=="            { LogicOp++; System.out.println("Encontrou =="); }
+"!="            { LogicOp++; System.out.println("Encontrou !="); }
+"!"            { LogicOp++; System.out.println("Encontrou !"); }
+"*"              { ArithmeticOp++; System.out.println("Encontrou *"); }
+"+"             { ArithmeticOp++; System.out.println("Encontrou +"); }
+"-"              { ArithmeticOp++; System.out.println("Encontrou -"); }
 "("              { System.out.println("Encontrou ("); }
 ")"              { System.out.println("Encontrou )"); }
 "["              { System.out.println("Encontrou ["); }
@@ -76,10 +81,10 @@ multilinecomment    = ({multislashbegin})(({alphanumeric}|{whitespace})*)({multi
 ";"              { System.out.println("Encontrou ;"); }
 "."              { System.out.println("Encontrou ."); }
 ","              { System.out.println("Encontrou ,"); }
-"="              { System.out.println("Encontrou ="); }
+"="              { AttributionOp++; System.out.println("Encontrou ="); }
 {identifier}        { TokenCounter++; System.out.println("Encontrou ID ("+yytext()+")"); }
 {integer}           { System.out.println("Encontrou Inteiro ("+yytext()+")"); }
-{whitespace}     { System.out.println("Encontrou espaço em branco.");}
-{singlelinecomment}     {System.out.println("Encontrou comentario em uma linha.");}
-{multilinecomment}     {System.out.println("Encontrou comentario de multiplas linhas.");}
+{whitespace}     { }
+{singlelinecomment}     { System.out.println("Encontrou comentario");}
+{multilinecomment}     { System.out.println("Encontrou comentario");}
 . { throw new RuntimeException("Caractere ilegal! '" + yytext() + "' na linha: " + yyline + ", coluna: " + yycolumn); }
